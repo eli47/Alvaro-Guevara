@@ -1,0 +1,4 @@
+ En la clase practica de este dia aprendimo como crear una maquina virtual con Virtual Box 
+adecuandola a la capacidad de nuestras computadoras
+tambien la creacion de donminios de paginas web, los beneficios y desventajas de comprar un dominio o crear uno gratis 
+ademas de la creacion de sitios web y el uso adecuado de los dominios, como agregando nombres cortos, concretos y originales
