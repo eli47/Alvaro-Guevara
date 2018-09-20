@@ -1,0 +1,29 @@
+ orientado al registro de docentes, para facilitar el registro de entrada y salida, es decir, se solucionara dos problemas,
+1 se evitara el consumo de papel
+2 se agilizara el proceso del registro de dosentes al sistema
+
+ya no se hara doble trabajo a la hora de registrar al docente a la hora de entrada y salida, el ingresara su nombre y un codigo 
+y quedara registrado a la hora que entro, y de igual manera hara el mismo procedimiento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
